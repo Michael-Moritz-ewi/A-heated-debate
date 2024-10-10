@@ -10,7 +10,7 @@ The investment costs of the heating systems are used as input for the calculatio
 # DATA_equipment_cost.xlsx
 This document contains data on heating equipment costs taken from 2023 price lists of the German manufacturers Buderus, Elco, Vaillant, and Viessmann. For reasons of confidentiality, the article and manufacturer names of individual equipment are not visible. All prices are in Euro 2023. Equipment costs of heat pumps and boilers include necessary control devices. Equipment costs of air-to-air heat pumps include inside units. For larger air-to-air heat pumps, multiple inside units are included.
 
-# DATA_installation_cost
+# DATA_installation_cost.xlsx
 This document contains data on heating installation costs taken from real offers of the five installation firms E. Altmann GmbH, König GmbH & Co. KG, Moritz & Bramer GmbH, Octopus Energy, and Thermondo in Germany. For reasons of confidentiality, it is not visible which data point corresponds to which company. All prices are in Euro 2023. 
 
 
