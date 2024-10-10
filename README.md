@@ -1,7 +1,7 @@
 # A-heated-debate
 Supplementary material of EWI Working Paper 05/2024 A heated debate - The future cost-efficiency of climate-neutral heating options under consideration of heterogeneity and uncertainty by Michael Moritz, Berit Hanna Czock &amp; Oliver Ruhnau
 
-https://www.ewi.uni-koeln.de/de/publikationen/a-heated-debate-the-future-cost-efficiency-of-climate-neutral-heating-options-under-consideration-of-heterogeneity-and-uncertainty-update/
+https://www.ewi.uni-koeln.de/en/publications/a-heated-debate-the-future-cost-efficiency-of-climate-neutral-heating-options-under-consideration-of-heterogeneity-and-uncertainty-update/
 
 # CODE_investment_cost_calculation_heating_systems.py 
 This code calculates the investment costs of heating systems, which consist of equipment costs, contribution margin, and installation costs.
